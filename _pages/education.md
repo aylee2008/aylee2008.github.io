@@ -13,5 +13,5 @@ Mar 2020 - Feb 2024 (expected)
 
 ### Seoul Science High School
 Mar 2017 - Feb 2020
-* The school for gifted students in mathematics and science, teaching graduate-level math and science
+* The school for gifted students in mathematics and science, teaching college-level math and science
 * GPA: 4.18/4.3
