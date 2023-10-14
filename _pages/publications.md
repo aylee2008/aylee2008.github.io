@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### On Consistency Training for Language-Based Image Editing Interface
-Youngwon Lee&ast;, Ayoung Lee&ast;, Yeonjoon Jung, Seung-won Hwang \
+Youngwon Lee\*, Ayoung Lee\*, Yeonjoon Jung, Seung-won Hwang \
 *IJCNLP-AACL 2023, Second Workshop on Natural Language Interfaces*
 
 <details>
