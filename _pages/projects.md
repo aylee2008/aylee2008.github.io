@@ -60,7 +60,7 @@ Our team was composed of three specialized units: Vision, SLAM, and Path Plannin
 </p>
 
 <p><b>Video</b>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/hNRs1_4xCZg?si=IwGqDo_XmYC7_GKi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EEYO5-M3jzM?si=ExjMZN9KNvOAHDF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <br>
 </p>
 </details>
 
