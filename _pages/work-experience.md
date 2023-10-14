@@ -19,13 +19,6 @@ Jun 2022 - Jan 2023 \
 * Participated in medical data preprocessing & developed algorithms for autonomous ventilator manipulation
 <hr align="left" width="50%">
 
-### Seoul National University
-Sep 2021 - Dec 2021 \
-*Seoul, South Korea*
-* TA for Logic Design Course (Advisor: Prof. 
-Jihong Kim)
-<hr align="left" width="50%">
-
 ### Samsung Device Solutions Memory
 Jul 2021 - Aug 2021 \
 *Hwaseong, South Korea*
