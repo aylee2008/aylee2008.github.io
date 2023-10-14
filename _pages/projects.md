@@ -17,10 +17,10 @@ WaffleStudio is one of the largest development clubs in Seoul National Universit
 Our team developed a sharable calendar web service using Next.js and Django. Through this platform, users can efficiently organize their schedules, create posts linked to specific events, and share these schedules to get comments from others. I played a role as a frontend developer. Our team secured the third position among all the competing participants.</p>
 
 <p><b>Code</b>
-<a href="https://github.com/wafflestudio20-5/team9-web">frontend</a>, <a href="https://github.com/wafflestudio20-5/team9-server">backend</a>
+<a href="https://github.com/wafflestudio20-5/team9-web">frontend</a>, <a href="https://github.com/wafflestudio20-5/team9-server">backend</a></p>
 
 <p><b>Video</b>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/tM0ltTOppu4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </p>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/tM0ltTOppu4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 </details>
 
 <hr align="left" width="50%">
