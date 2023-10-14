@@ -13,7 +13,7 @@ Mar 2023 - Present \
 * Published in the IJCNLP-AACL workshop as a co-first author ([paper](https://todo.org))
 <hr align="left" width="50%">
 
-### Deepmetrics
+### DeepMetrics
 Jun 2022 - Jan 2023 \
 *Seoul, South Korea*
 * Machine Learning Engineering Intern (Advisor: Prof. Hyun Oh Song)
