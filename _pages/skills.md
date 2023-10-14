@@ -7,7 +7,7 @@ author_profile: true
 
 ### Programming
 Python, Java (proficient), C, C++, Typescript (intermediate), \
-Pytorch (proficient), React, Tensorflow (intermediate), \
+Pytorch (proficient), React, Next.js, Django, Tensorflow (intermediate), \
 Git (proficient)
 
 ### Communication

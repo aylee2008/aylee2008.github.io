@@ -5,11 +5,12 @@ permalink: /work-experience/
 author_profile: true
 ---
 
-### Language and Data Intelligence Lab
+### Language and Data Intelligence Lab (at Seoul National University)
 Mar 2023 - Present \
 *Seoul, South Korea*
 * Undergraduate Research Intern (Advisor: Prof. Seung-won Hwang)
-* Participated in improving general-purpose natural language image editing task as a co-first author, which was published in the IJCNLP-AACL workshop ([paper](https://todo.org)).
+* Participated in improving language-based image editing interface using cycle consistency
+* Published in the IJCNLP-AACL workshop as a co-first author ([paper](https://todo.org))
 <hr align="left" width="50%">
 
 ### Deepmetrics
