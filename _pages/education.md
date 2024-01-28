@@ -8,7 +8,7 @@ author_profile: true
 ### Seoul National University
 Mar 2020 - Feb 2024 (expected)
 * B.S. in Computer Science and Engineering
-* GPA: 4.18/4.3 (cumulative), 4.16/4.3 (major)
+* GPA: 4.18/4.3 (cumulative), 4.17/4.3 (major)
 <hr align="left" width="50%">
 
 ### Seoul Science High School
