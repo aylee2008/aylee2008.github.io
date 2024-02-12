@@ -5,9 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-### <a href="https://aclanthology.org/2023.nlint-1.2/">On Consistency Training for Language-Based Image Editing Interface</a>
+### On Consistency Training for Language-Based Image Editing Interface
 Youngwon Lee\*, Ayoung Lee\*, Yeonjoon Jung, Seung-won Hwang (* denotes equal contribution)\
-*IJCNLP-AACL 2023, Second Workshop on Natural Language Interfaces (Oral)*
+*IJCNLP-AACL 2023, Second Workshop on Natural Language Interfaces (Oral)*, 
+<a href="https://aclanthology.org/2023.nlint-1.2/"><b>link</b></a>
 
 <details>
 <p><b>Abstract</b>
