@@ -10,7 +10,7 @@ Mar 2023 - Present \
 *Seoul, South Korea*
 * Undergraduate Research Intern (Advisor: Prof. Seung-won Hwang)
 * Participated in improving language-based image editing interface using cycle consistency
-* Published in the IJCNLP-AACL workshop as a co-first author ([paper](https://todo.org))
+* Published in the IJCNLP-AACL workshop as a co-first author ([paper](https://aclanthology.org/2023.nlint-1.2/))
 <hr align="left" width="50%">
 
 ### DeepMetrics
