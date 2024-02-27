@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Language and Data Intelligence Lab (at Seoul National University)
-Mar 2023 - Present \
+Mar 2023 - Feb 2024 \
 *Seoul, South Korea*
 * Undergraduate Research Intern (Advisor: Prof. Seung-won Hwang)
 * Participated in improving language-based image editing interface using cycle consistency

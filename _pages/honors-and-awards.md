@@ -5,6 +5,14 @@ permalink: /honors-and-awards/
 author_profile: true
 ---
 
+### Outstanding Student Commendation from the Alumni Association
+Feb 2024
+<hr align="left" width="50%">
+
+### Excellent Bachelor’s Thesis Presentation Award
+Feb 2024
+<hr align="left" width="50%">
+
 ### SNU Tomorrow’s Engineers Membership
 Mar 2022 - Aug 2022 \
 *Honor Society of Seoul National University College of Engineering*
