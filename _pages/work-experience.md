@@ -5,6 +5,13 @@ permalink: /work-experience/
 author_profile: true
 ---
 
+### NAVER Cloud HealthCare AI
+Mar 2024 - Present \
+*Seongnam, South Korea*
+* Research Intern
+* Contributing to the development of an efficient EMR note retrieval system by inventing a graphical multi-node embedding technique
+<hr align="left" width="50%">
+
 ### Language and Data Intelligence Lab (at Seoul National University)
 Mar 2023 - Feb 2024 \
 *Seoul, South Korea*
