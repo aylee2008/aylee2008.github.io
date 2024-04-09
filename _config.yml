@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ayoung Lee"
   avatar           : "ayoung.JPG"
-  bio              : "Undergraduate studying at Seoul National University"
+  bio              : 
   location         : "Seoul, South Korea"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        : "o._.cube"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/ayoung-lee-b982072ab/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
