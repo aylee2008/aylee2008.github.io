@@ -113,8 +113,8 @@ section {
 }
 
 h2 {
-    margin-bottom: 10px;
     margin-top: 20px;
+    margin-bottom: 0px;
     color: #00274c;
 }
 
@@ -133,6 +133,14 @@ h3, p {
 .publication-item,
 .talks-item,
 .teaching-item {
+    margin-top: 15px;
+}
+
+/* Honors & Talks section does not use honors-item, so customize margin to enforce consistency */
+.honors h2 {
+    margin-bottom: 15px;
+}
+.talks h2 {
     margin-bottom: 15px;
 }
 
