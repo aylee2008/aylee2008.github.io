@@ -134,6 +134,7 @@ h3, p {
 .talks-item,
 .teaching-item {
     margin-top: 15px;
+    scroll-margin-top: 110px;
 }
 
 /* Honors & Talks section does not use honors-item, so customize margin to enforce consistency */
