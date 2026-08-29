@@ -1,10 +1,14 @@
 /* styles.css */
 
+:root {
+    --header-height: 104px;
+}
+
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     margin: 0;
-    padding-top: 100px;
+    padding-top: var(--header-height);
     background-color: #fff;
     color: #333;
     overflow-x: hidden;
@@ -134,7 +138,7 @@ h3, p {
 .talks-item,
 .teaching-item {
     margin-top: 15px;
-    scroll-margin-top: 110px;
+    scroll-margin-top: calc(var(--header-height) + 6px);
 }
 
 /* Honors & Talks section does not use honors-item, so customize margin to enforce consistency */

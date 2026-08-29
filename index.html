@@ -211,5 +211,12 @@
         </section>
         <br>
     </main>
+    <script>
+        const header = document.querySelector('.header-container');
+        const updateHeaderHeight = () =>
+            document.documentElement.style.setProperty('--header-height', header.offsetHeight + 'px');
+        new ResizeObserver(updateHeaderHeight).observe(header);
+        updateHeaderHeight();
+    </script>
 </body>
 </html>
